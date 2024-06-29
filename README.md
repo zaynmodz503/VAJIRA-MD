@@ -87,8 +87,11 @@
 ## THANKS TO 👨‍💻
 
 • Asif King - Web Design
+
 • Kasun - Testing
+
 • Danidu Nirmal - Logo Design
+
 • Ushani - Voice Helper
 
 
